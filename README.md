@@ -1,2 +1,1 @@
-# debts
-This repository is intended for transferring laboratory work from the previous semester.
+Hello! My operating system: macOS My IDE: CLion
