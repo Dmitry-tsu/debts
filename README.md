@@ -27,11 +27,6 @@ IDE: CLion
 - Basic Data Structures
 - File Input/Output
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
 ## 📫 Contact Me
 <p align="center">
   <a href="https://t.me/User_for_TG">
